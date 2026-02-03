@@ -1,0 +1,2 @@
+This is for output file handling. 
+ hello my name is rishabh singh brushing up python for ai ml 

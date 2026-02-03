@@ -1,0 +1,3 @@
+I am already present.
+ Appending a new log entry
+Appending a new log entry
