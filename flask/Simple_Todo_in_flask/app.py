@@ -54,7 +54,7 @@ def delete_item(item_id):
     global items
     item = next(item for item in items if item_id != item["id"])
 
-    jsonify ({"results":"item deleted"})
+    return jsonify ({"results":"item deleted"})
 
 
 
